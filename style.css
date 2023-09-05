@@ -1,0 +1,88 @@
+/* selettore {
+propretà: valore;
+propretà: valore;
+} */
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+#container{
+    width: 60%;
+    margin: auto;
+}
+
+#background{
+   background-color: black;
+   background: rgba(0,0,0,0.5);
+   border-radius: 25px;
+   margin-top: 20px;
+   padding: 30px;
+   margin-bottom: 60px;
+}
+
+#logo{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logotext{
+    text-align: center;
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+#navbackground{
+    background-color: greenyellow;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 5px;
+}
+
+main{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#firstblock{
+    margin: 25px;
+}
+
+#secondblock{
+    margin: 25px;
+}
+
+#thirdblock{
+    margin: 25px;
+}
+
+#orangebox{
+    background-color: orange;
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+#greenbox{
+    background-color: green;
+    height: 20px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+#redbox{
+    background-color: red;
+    height: 20px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.tipomonopattino{
+    font-size: large;
+}
